@@ -1,4 +1,4 @@
-body { border:solid rgb(21, 255, 0) 5px;
+body { border:solid rgb(0, 110, 255) 5px;
     margin:100px;
     padding: 50px;
     text-align: center;
@@ -6,13 +6,12 @@ body { border:solid rgb(21, 255, 0) 5px;
         width: 100px;
         height: 100px;
     }
-    background-color rgb(255, 255, 255);
 }
 #t2 {
 color:rgb(53, 51, 51);
 }
 #t1 {
-    color: salmon;
+    color: rgb(0, 0, 0);
 }
 #t3 {
 color: violet;
